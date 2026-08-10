@@ -31,22 +31,21 @@ A modern, full-featured Hostel Management System built with **Laravel** and **Bl
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/hosteldashboard.jpeg)
 
 ### Rooms
-![Rooms](screenshots/rooms.png)
+![Rooms](screenshots/rooms.jpeg)
 
 ### Residents
-![Residents](screenshots/residents.png)
+![Residents](screenshots/residents.jpeg)
 
 ### Payments
-![Payments](screenshots/payments.png)
+![Payments](screenshots/payments.jpeg)
 
 ### Complaints
-![Complaints](screenshots/complaints.png)
+![Complaints](screenshots/complaints.jpeg)
 
-### Mobile View
-![Mobile View](screenshots/mobile.png)
+
 
 ---
 
